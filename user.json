@@ -6,13 +6,15 @@
         "id": 1,
         "username": "admin",
         "password": "123456",
-        "nickname": "管理员"
+        "nickname": "管理员",
+        "avatar": "https://q6.itc.cn/q_70/images03/20250306/355fba6a5cb049f5b98c2ed9f03cc5e1.jpeg"
       },
       { 
         "id":2,
         "username": "test",
         "password": "123",
-        "nickname": "测试者"
+        "nickname": "测试者",
+        "avatar": "https://gips1.baidu.com/it/u=2656309074,4189950535&fm=3074&app=3074&f=PNG?w=2048&h=2048"
       }
     ]
 }
