@@ -1,0 +1,40 @@
+{
+  "code": 200,
+  "message": "请求成功！",
+  "data": [
+      [
+        {
+          "icon": "/icons/orders_o.svg",
+          "name": "我的订单",
+          "url": "/pages/orderform/orderform"
+        },
+        {
+          "icon": "/icons/send_gift_o.svg",
+          "name": "我的拼图",
+          "url": "/pages/group/group"
+        },
+        {
+          "icon": "/icons/replay_o.svg",
+          "name": "我的售后申请",
+          "url": "/pages/aftersale/aftersale"
+        }
+      ],
+      [
+        {
+          "icon": "/icons/coupon_o.svg",
+          "name": "我的优惠券",
+          "url": "/pages/coupon/coupon"
+        },
+        {
+          "icon": "/icons/diamond_o.svg",
+          "name": "我的积分",
+          "url": "/pages/integral/integral"
+        },
+        {
+          "icon": "/icons/guide_o.svg",
+          "name": "我的地址",
+          "url": "/pages/address/address"
+        }
+      ],
+    ]
+}
