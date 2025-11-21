@@ -1,7 +1,5 @@
 {
-  "code": 200,
-  "message": "请求数据成功！",
-  "data": [
+  "swipers": [
       { 
         id:1,
         title: '图片1',
