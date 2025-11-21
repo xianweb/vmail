@@ -1,0 +1,21 @@
+{
+  "code": 200,
+  "message": "请求数据成功！",
+  "data": [
+      { 
+        id:1,
+        title: '图片1',
+        image: 'https://res.vmallres.com/uomcdn/CN/cms/202506/07de315d9d7c40cbb4113ea6cbefbe8a.jpg'
+      },
+      { 
+        id:2,
+        title: '图片2',
+        image: 'https://res.vmallres.com/uomcdn/CN/cms/202506/23b7fdb55828422db8a8cf06e427a07c.jpg'
+      },
+      { 
+        id:3,
+        title: '图片3',
+        image: 'https://res.vmallres.com/uomcdn/CN/cms/202506/277e4494496a4ff8a7515e947d42100f.jpg'
+      }
+    ]
+}
